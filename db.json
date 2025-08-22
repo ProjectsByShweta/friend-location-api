@@ -1,22 +1,22 @@
 {
   "friends": [
     {
-      "name": "friend1",
+      "name": "Neha",
       "latitude": 18.5010,
       "longitude": 73.8623
     },
     {
-      "name": "friend2",
+      "name": "Mrunal",
       "latitude": 18.5204,
       "longitude": 73.8567
     },
     {
-      "name": "friend3",
+      "name": "Aishwarya",
       "latitude": 18.4674,
       "longitude": 73.8580
     },
     {
-      "name": "friend4",
+      "name": "Kranti",
       "latitude": 18.4800,
       "longitude": 73.8500
     }
